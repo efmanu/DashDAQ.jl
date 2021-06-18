@@ -1,0 +1,4 @@
+name = "DashDAQ"
+uuid = "6ba3ae71-79a3-48e4-831a-5cdde715a324"
+authors = ["efmanu <manuedavakandam@gmail.com>"]
+version = "0.1.0"
